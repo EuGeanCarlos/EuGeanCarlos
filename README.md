@@ -2,10 +2,10 @@
 Hello World! 👋
 - 🔭 I currently working on Front-End
 - 🌱 I’m currently learning ReactJs
-<div>
+<div style="width:100%;">
   <a href="https://github.com/EuGeanCarlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGeanCarlos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGeanCarlos&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=EuGeanCarlos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGeanCarlos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center"> <br>
     <img  aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />

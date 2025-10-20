@@ -49,7 +49,7 @@ I love building clean, interactive, and responsive web experiences using modern 
 
 ---
 
-### ⚙️ Dynamic Animation
+### ⚙️
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />

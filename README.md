@@ -67,8 +67,9 @@ I love building clean, interactive, and responsive web experiences using modern 
 ### ⚙️ Animated Contribution Grid
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/Developer.gif" width="250"/>
+  <img src="https://github.com/EuGeanCarlos/EuGeanCarlos/assets/placeholder/neon-border.gif" alt="Neon Pulse Animation" width="600"/>
 </div>
+
 
 
 ---

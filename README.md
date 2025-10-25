@@ -67,8 +67,9 @@ I love building clean, interactive, and responsive web experiences using modern 
 ### ⚙️ Animated Contribution Grid
 
 <div align="center">
-  <img src="https://github.com/raushanraj358/github-matrix-rain/raw/main/matrix.svg" alt="Matrix Rain Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/Developer.gif" width="250"/>
 </div>
+
 
 ---
 

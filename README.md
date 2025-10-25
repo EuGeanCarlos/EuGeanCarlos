@@ -67,11 +67,8 @@ I love building clean, interactive, and responsive web experiences using modern 
 ### ⚙️ Animated Contribution Grid
 
 <div align="center">
-  <img src="https://github.com/EuGeanCarlos/EuGeanCarlos/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/raushanraj358/github-matrix-rain/raw/main/matrix.svg" alt="Matrix Rain Animation" width="100%"/>
 </div>
-
-<!-- ✨ Alternative Animation -->
-<!-- <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-pulse.svg" alt="Pulse Animation" /> -->
 
 ---
 

@@ -1,19 +1,19 @@
-## Hello World! 👋  
+## 👋 Hello World!
 
 I'm **Gean Carlos**, a passionate **Front-End Developer** and **Computer Engineering student** at the *State University of Maranhão (UEMA)*.  
 I love building clean, interactive, and responsive web experiences using modern technologies.  
 
-- 🔭 I’m currently working with **Front-End development**
-- 🌱 I’m learning and improving my skills in **React.js**
-- 💡 Always curious about **UI/UX design** and **modern web practices**
-- ⚡ Fun fact: I love turning coffee ☕ into elegant code.
+- 🔭 Currently working with **Front-End development**  
+- 🌱 Improving my skills in **React.js** and **Node.js**  
+- 💡 Curious about **UI/UX design** and **modern web practices**  
+- ⚡ Fun fact: I turn coffee ☕ into elegant code.
 
 ---
 
 <div align="center">
   <a href="https://github.com/EuGeanCarlos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGeanCarlos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGeanCarlos&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGeanCarlos&layout=compact&langs_count=10&theme=tokyonight"/>
   </a>
 </div>
 
@@ -22,13 +22,28 @@ I love building clean, interactive, and responsive web experiences using modern 
 ### 🧠 Tech Stack
 
 <div align="center">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <!-- Front-End -->
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+  <!-- Back-End -->
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+  <!-- Database -->
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+  <!-- Tools -->
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </div>
 
 ---
@@ -49,15 +64,15 @@ I love building clean, interactive, and responsive web experiences using modern 
 
 ---
 
-### ⚙️
+### ⚙️ Animated Contribution Grid
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/EuGeanCarlos/EuGeanCarlos/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-<!-- Alternative: Pulse Animation -->
-<!-- <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation" /> -->
+<!-- ✨ Alternative Animation -->
+<!-- <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-pulse.svg" alt="Pulse Animation" /> -->
 
 ---
 
-✨ *"Code is like art — each line is a brushstroke of logic."*  
+✨ *"Code is like art — each line is a brushstroke of logic."*

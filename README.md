@@ -2,10 +2,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gean-carlos-a9903a220/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dev.geancarlos@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/eu_geancarlos/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -13,7 +16,7 @@ Sou graduando em **Engenharia de Computação** pela UEMA e desenvolvedor **Full
 
 - 🔭 **Projetos Atuais:** Desenvolvendo aplicações de diagnóstico energético e plataformas de ensino adaptativo.
 - 🌱 **Evoluindo em:** Ecossistema Java (Spring Boot), TypeScript e Integrações com Gemini API.
-- 🎓 **Acadêmico:** Pesquisador na área de algoritmos e educação mediada por tecnologia.
+- 🎓 **Foco Acadêmico:** Pesquisador na área de algoritmos e engenharia de hardware/software.
 - ⚡ **Curiosidade:** Aplico conceitos de física e cálculo para otimizar a performance de sistemas.
 
 ---
@@ -47,21 +50,26 @@ Sou graduando em **Engenharia de Computação** pela UEMA e desenvolvedor **Full
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGeanCarlos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGeanCarlos&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGeanCarlos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGeanCarlos&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuGeanCarlos&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🚀 Destaques de Código
-*   **EnergIA SLZ:** Diagnóstico energético com IA (Spring Boot + MongoDB + Gemini API).
-*   **Analisador de Consumo:** Visualização de dados de CPU com Streamlit e Plotly.
+### 🚀 Projetos em Destaque
+*   **EnergIA SLZ:** Diagnóstico energético inteligente utilizando Java, Spring Boot e Google Gemini API.
+*   **Analisador de Consumo:** Aplicação Python para modelagem e visualização de potência dinâmica de processadores.
+*   **Global Projetores:** Landing page otimizada para serviços de locação audiovisual.
 
 ---
 
 <p align="center">
-  <i>"Transformando lógica matemática em interfaces intuitivas."</i>
+  <i>"Code is like art — each line is a brushstroke of logic."</i>
 </p>

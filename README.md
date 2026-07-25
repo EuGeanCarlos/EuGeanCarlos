@@ -1,75 +1,191 @@
-## 👋 Olá, eu sou o Gean Carlos!
+<h1 align="center">Olá! 👋 Eu sou Gean Carlos</h1>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gean-carlos-a9903a220/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dev.geancarlos@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/eu_geancarlos/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<h3 align="center">
+Desenvolvedor Full Stack • Java • Spring Boot • React • Inteligência Artificial
+</h3>
+
+<p align="center">
+  <a href="https://github.com/EuGeanCarlos">
+    <img src="https://komarev.com/ghpvc/?username=EuGeanCarlos&color=blueviolet&style=flat-square" />
   </a>
 </p>
 
-Sou graduando em **Engenharia de Computação** pela UEMA e desenvolvedor **Full Stack** focado em criar soluções inteligentes e escaláveis. Atualmente, exploro a interseção entre o desenvolvimento web moderno e a **Inteligência Artificial Generativa**.
+---
 
-- 🔭 **Projetos Atuais:** Desenvolvendo aplicações de diagnóstico energético e plataformas de ensino adaptativo.
-- 🌱 **Evoluindo em:** Ecossistema Java (Spring Boot), TypeScript e Integrações com Gemini API.
-- 🎓 **Foco Acadêmico:** Pesquisador na área de algoritmos e engenharia de hardware/software.
-- ⚡ **Curiosidade:** Aplico conceitos de física e cálculo para otimizar a performance de sistemas.
+# 💻 Sobre mim
+
+🎓 Estudante de **Engenharia da Computação** na Universidade Estadual do Maranhão (UEMA).
+
+🚀 Desenvolvedor **Full Stack** apaixonado por criar aplicações escaláveis utilizando Java, Spring Boot, React e Inteligência Artificial.
+
+Atualmente atuo como **Estagiário de Desenvolvimento Web no NUGEO/UEMA**, desenvolvendo e mantendo aplicações institucionais e portais em **WordPress**, além de participar do desenvolvimento de soluções web modernas.
+
+Também fui **Líder Técnico** da equipe durante o **Hackathon Oracle Next Education**, coordenando uma equipe de oito desenvolvedores na construção do projeto **Smart Finance AI**, uma plataforma de análise financeira baseada em Machine Learning e IA.
+
+Meu principal objetivo é atuar como **Desenvolvedor Back-end Java**, construindo APIs robustas, arquiteturas escaláveis e soluções de alto impacto.
 
 ---
 
-### 🧠 Tech Stack
+# 🚀 Tecnologias
 
-**Front-End & Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+## ☕ Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi"/>
 </p>
 
-**Back-End & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+## 🎨 Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite"/>
 </p>
 
-**Ferramentas & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+## 🗄️ Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+## ☁️ DevOps & Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,maven,idea,vscode,postman"/>
+</p>
+
+## 📖 Atualmente estudando
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes"/>
 </p>
 
 ---
 
-### 📊 Estatísticas GitHub
+# 🚀 Projetos em Destaque
+
+## 💰 Smart Finance AI
+
+Sistema inteligente para análise financeira desenvolvido durante o Hackathon Oracle Next Education.
+
+### Tecnologias
+
+- Java 21
+- Spring Boot
+- React
+- TypeScript
+- Python
+- FastAPI
+- Machine Learning
+- Docker
+- Oracle Cloud Infrastructure
+
+---
+
+## ⚡ EnergIA SLZ
+
+Aplicação Full Stack para diagnóstico energético utilizando Inteligência Artificial Generativa.
+
+### Tecnologias
+
+- Java
+- Spring Boot
+- MongoDB
+- Google Gemini API
+
+---
+
+## 🌎 NUGEO UEMA
+
+Portal institucional desenvolvido para o Núcleo Geoambiental da UEMA.
+
+### Atividades
+
+- Desenvolvimento e manutenção do portal institucional
+- Implementação de novas funcionalidades
+- Personalização de temas e páginas
+- Manutenção de plugins
+- Desenvolvimento utilizando WordPress
+- Versionamento com Git
+
+### Tecnologias
+
+- WordPress
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Git
+
+---
+
+## 🌐 Elementar Web
+
+Desenvolvimento de sites institucionais, landing pages e soluções web para empresas.
+
+### Tecnologias
+
+- WordPress
+- Elementor
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 📊 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuGeanCarlos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGeanCarlos&layout=compact&langs_count=8&theme=tokyonight" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EuGeanCarlos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuGeanCarlos&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuGeanCarlos&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EuGeanCarlos&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🚀 Projetos em Destaque
-*   **EnergIA SLZ:** Diagnóstico energético inteligente utilizando Java, Spring Boot e Google Gemini API.
-*   **Analisador de Consumo:** Aplicação Python para modelagem e visualização de potência dinâmica de processadores.
-*   **Global Projetores:** Landing page otimizada para serviços de locação audiovisual.
+# 🎯 Objetivos para 2026
+
+- ✅ Conquistar minha primeira oportunidade como Desenvolvedor Back-end Java
+- ✅ Aprimorar conhecimentos em Arquitetura de Software
+- ✅ Dominar Spring Boot
+- ✅ Aprender Microsserviços
+- ✅ Aprender Kubernetes
+- ✅ Obter certificações Oracle
+- ✅ Contribuir para projetos Open Source
 
 ---
 
-<p align="center">
-  <i>"Code is like art — each line is a brushstroke of logic."</i>
+# 📫 Vamos nos conectar
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gean-carlos-a9903a220">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dev.geancarlos@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/EuGeanCarlos">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/eu_geancarlos">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
+
+---
+
+<h3 align="center">
+
+> *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**
+
+</h3>

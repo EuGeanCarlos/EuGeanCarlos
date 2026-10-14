@@ -26,6 +26,43 @@ Meu principal objetivo é atuar como **Desenvolvedor Back-end Java**, construind
 
 ---
 
+## 🚀 Projetos para experimentar
+
+Demonstrações verificadas em 14/10/2026. Os projetos preservam suas implementações originais; protótipos e interfaces sem backend são identificados abaixo.
+
+| Projeto | Tecnologias | Código | Demonstração |
+| --- | --- | --- | --- |
+| Appweb_Collatz_Calculator | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/Appweb_Collatz_Calculator) | [Acessar](https://eugeancarlos.github.io/Appweb_Collatz_Calculator/) |
+| CalculadoraIMC-JS | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/CalculadoraIMC-JS) | [Acessar](https://eugeancarlos.github.io/CalculadoraIMC-JS/) |
+| Desafio-RocketShoes | HTML, CSS | [Repositório](https://github.com/EuGeanCarlos/Desafio-RocketShoes) | [Acessar](https://eugeancarlos.github.io/Desafio-RocketShoes/) |
+| Desafio-roceket-blog | HTML, CSS, JavaScript, jQuery | [Repositório](https://github.com/EuGeanCarlos/Desafio-roceket-blog) | [Acessar](https://eugeancarlos.github.io/Desafio-roceket-blog/) |
+| EnergIA-slz | HTML, CSS, JavaScript, localStorage | [Repositório](https://github.com/EuGeanCarlos/EnergIA-slz) | [Acessar](https://eugeancarlos.github.io/EnergIA-slz/) |
+| Lading-page-BELLEBOT | HTML, CSS | [Repositório](https://github.com/EuGeanCarlos/Lading-page-BELLEBOT) | [Acessar](https://eugeancarlos.github.io/Lading-page-BELLEBOT/) |
+| Matriz_calculo_de_determinate | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/Matriz_calculo_de_determinate) | [Acessar](https://eugeancarlos.github.io/Matriz_calculo_de_determinate/) |
+| Mini-Loja-vitual | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/Mini-Loja-vitual) | [Acessar](https://eugeancarlos.github.io/Mini-Loja-vitual/) |
+| Player-music-JavaScript | HTML, CSS, JavaScript, HTMLAudioElement | [Repositório](https://github.com/EuGeanCarlos/Player-music-JavaScript) | [Acessar](https://eugeancarlos.github.io/Player-music-JavaScript/) |
+| Projeto-front-end | HTML, CSS, JavaScript, jQuery, Slick | [Repositório](https://github.com/EuGeanCarlos/Projeto-front-end) | [Acessar](https://eugeancarlos.github.io/Projeto-front-end/) |
+| Site-simples- | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/Site-simples-) | [Acessar](https://eugeancarlos.github.io/Site-simples-/) |
+| alarme-js | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/alarme-js) | [Acessar](https://eugeancarlos.github.io/alarme-js/) |
+| atv_matematica_ds | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/atv_matematica_ds) | [Acessar](https://eugeancarlos.github.io/atv_matematica_ds/) |
+| aulas-js | HTML, JavaScript | [Repositório](https://github.com/EuGeanCarlos/aulas-js) | [Acessar](https://eugeancarlos.github.io/aulas-js/) |
+| calculadora_imc | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/calculadora_imc) | [Acessar](https://eugeancarlos.github.io/calculadora_imc/) |
+| challenge-amigo-secreto | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/challenge-amigo-secreto) | [Acessar](https://eugeancarlos.github.io/challenge-amigo-secreto/) |
+| hello-word | HTML, JavaScript | [Repositório](https://github.com/EuGeanCarlos/hello-word) | [Acessar](https://eugeancarlos.github.io/hello-word/) |
+| landing_page_Global_projetores | HTML, CSS, JavaScript | [Repositório](https://github.com/EuGeanCarlos/landing_page_Global_projetores) | [Acessar](https://eugeancarlos.github.io/landing_page_Global_projetores/) |
+| leading-page-simples- | HTML, CSS | [Repositório](https://github.com/EuGeanCarlos/leading-page-simples-) | [Acessar](https://eugeancarlos.github.io/leading-page-simples-/) |
+| Login — estudo visual sem autenticação | HTML, CSS | [Repositório](https://github.com/EuGeanCarlos/page-login-JavaScript) | [Acessar](https://eugeancarlos.github.io/page-login-JavaScript/) |
+| Portfólio — protótipo inicial Vite | React, TypeScript, Vite, Tailwind CSS | [Repositório](https://github.com/EuGeanCarlos/portfolio) | [Acessar](https://eugeancarlos.github.io/portfolio/) |
+| satellite-signal-edo-simulator | React, TypeScript, Vite, Three.js, Plotly, satellite.js | [Repositório](https://github.com/EuGeanCarlos/satellite-signal-edo-simulator) | [Acessar](https://eugeancarlos.github.io/satellite-signal-edo-simulator/) |
+| SCINTMON — apresentação estática | Python, Streamlit, HTML, CSS | [Repositório](https://github.com/EuGeanCarlos/scintmon-analysis) | [Acessar](https://eugeancarlos.github.io/scintmon-analysis/) |
+| Thera — protótipo institucional | Next.js 16, React, TypeScript, Tailwind CSS, Radix UI | [Repositório](https://github.com/EuGeanCarlos/thera-portfolio) | [Acessar](https://eugeancarlos.github.io/thera-portfolio/) |
+
+Formulários visuais não enviam mensagens sem uma integração implementada. O player usa áudio local; os projetos de loja não processam pagamentos. O dashboard científico SCINTMON é executado separadamente em Python/Streamlit.
+
+[Auditoria do portfólio](GITHUB_PORTFOLIO_AUDIT.md) · [Relatório de execução](GITHUB_DEPLOY_REPORT.md)
+
+---
+
 # 🚀 Tecnologias
 
 ## ☕ Back-end
